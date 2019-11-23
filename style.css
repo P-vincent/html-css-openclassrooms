@@ -10,7 +10,7 @@ header
 {
 	display: flex;
 	justify-content: space-between;
-
+	align-items: center;
 
 
 	background-color: grey;
@@ -19,16 +19,7 @@ header
 
 #logo1
 {
-	display: flex;
 	margin-left: 50px;
-}
-
-h1
-{
-	display: flex;
-	align-items: center;
-
-
 }
 
 #list_boutton
